@@ -1,6 +1,9 @@
 {
   "name": "Www-ver-4.1.1",
   "tagline": "Polymer/Jekyll WWW",
-  "body": "### Welcome to GitHub Pages.\r\nThis automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page  Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "body":
+  {
+    "### Welcome to Ksaipra Racing.\r\nThis is the official online way to interact with the #FSAE community.ul pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page  Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n"
+  },
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
