@@ -5,7 +5,7 @@ Polymer/Jekyll WWW
 4.1.1
 
 # Date of Commencement:
-
+09.10.2016
 
 # Current Status:
 Abandoned/Discontinued
